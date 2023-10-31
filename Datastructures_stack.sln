@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datastructures_stack", "Datastructures_stack\Datastructures_stack.csproj", "{61EC788E-88A4-40D5-82C3-3C3FA37982D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "datastructurestacklibrary", "datastructurestacklibrary\datastructurestacklibrary.csproj", "{57F96295-6A4A-435B-B4B6-BD1DC080C961}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61EC788E-88A4-40D5-82C3-3C3FA37982D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61EC788E-88A4-40D5-82C3-3C3FA37982D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61EC788E-88A4-40D5-82C3-3C3FA37982D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61EC788E-88A4-40D5-82C3-3C3FA37982D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57F96295-6A4A-435B-B4B6-BD1DC080C961}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57F96295-6A4A-435B-B4B6-BD1DC080C961}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57F96295-6A4A-435B-B4B6-BD1DC080C961}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57F96295-6A4A-435B-B4B6-BD1DC080C961}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5D3B337-19AE-4513-85C8-423A36E5DB4E}
+	EndGlobalSection
+EndGlobal
